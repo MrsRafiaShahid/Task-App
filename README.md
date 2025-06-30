@@ -20,6 +20,15 @@ A simple task management application built with React and Vite.
     ```bash
     npm run dev
     ```
+~~~
+├── public/
+├── src/
+│   ├── components/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── README.md
+~~~
 
 3. **Build for production:**
     ```bash
